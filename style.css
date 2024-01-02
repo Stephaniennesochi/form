@@ -1,0 +1,43 @@
+body{
+    background-color: darkcyan;
+}
+#overview {
+    background-color:lightsteelblue;
+    border-radius: 7%;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    
+}
+#over{
+    background-color: lightsteelblue;
+    border-radius: 7%;
+    width: 450px;
+    height: 350px;
+    text-align: center;
+}
+h4 a{
+    text-decoration: none;
+    color: blue;
+    font-family: Verdana, Gneva, Tahoma, sans-serif;
+    font-size: 110%;
+    
+}
+button{
+    color: white;
+    background-color: black;
+    width: 120px;
+    height: 40px;
+    border-radius: 10%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 90%;
+}
+input{
+    border-radius: 5%;
+    width: 200px;
+}
+label{
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 120%;
+}
